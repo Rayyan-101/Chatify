@@ -1,3 +1,4 @@
+import React from 'react'
 
 const Message = ({message}) => {
   const authUser= JSON.parse(localStorage.getItem("ChatApp"));
