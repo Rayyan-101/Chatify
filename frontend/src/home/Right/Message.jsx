@@ -17,16 +17,7 @@ const Message = ({message}) => {
 
 
   return (
-    <div>
-      <div className='p-4 '>
-      <div className={`chat ${chatName}`}>
-  <div className={`chat-bubble  ${chatColor}`} style={{outline:`${borderClr}`,color:`${fontClr}`}}>
-    {message.message}
-  </div>
-  <div className='chat-footer' style={{color:`gray`}} >{formattedTime}</div>
-  </div>
-  </div>
-  </div>
+    
   );
 }
 
