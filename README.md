@@ -1,6 +1,6 @@
 # 💬 Chatify – Real-Time Chat Application
 
-Chatify is a full-stack real-time chat application built with **Node.js**, **Express.js**, **Socket.IO**, and **MongoDB**. It allows users to send and receive messages instantly with a seamless and responsive user interface. The application supports one-to-one messaging with online/offline status indicators.
+Chatify is a full-stack real-time chat application built with **React.js**, **Node.js**, **Express.js**, **Socket.IO**, and **MongoDB**. It allows users to send and receive messages instantly with a seamless and responsive user interface. The application supports one-to-one messaging with online/offline status indicators.
 
 ---
 
